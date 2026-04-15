@@ -1,0 +1,19 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Go
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
