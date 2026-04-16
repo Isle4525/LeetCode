@@ -12,3 +12,5 @@
 |---|----------|-----------|---------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Go](./Go/easy/two_sum.go) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Go](./Go/easy/isPalindrome.go) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Go](./Go/easy/romanToInt.go) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Go](./Go/easy/longestCommonPrefix.go) |
