@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	b := 10101
+	a := easy.RomanToInt("XIV")
 
-	fmt.Println(easy.IsPalindrome(b))
+	fmt.Println(a)
 }
