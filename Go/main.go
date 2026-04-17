@@ -7,7 +7,6 @@ import (
 
 func main() {
 
-	a := easy.RomanToInt("XIV")
-
+	a := easy.MySqrt(45)
 	fmt.Println(a)
 }
